@@ -11,5 +11,6 @@ public class dugujiujian {
         System.out.println("hello,dugujiujian");
         System.out.println("22222222222222222222222");
         System.out.println("BBBBBBBBBBBBBBBBB");
-    }
+        System.out.println("AAAAAAAAAAAAAA");
+     }
 }
